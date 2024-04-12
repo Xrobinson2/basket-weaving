@@ -1,0 +1,40 @@
+body {
+    background-color: #d9ddf8 ;
+    margin:0;
+}
+
+header  {
+    background-color: blueviolet;
+    color: goldenrod;
+    padding: 13px 26px 20px 26px;
+}
+
+
+nav {
+    background-color: burlywood;
+    color: blueviolet;
+    margin: 0;
+}
+
+
+nav ul {
+    margin: 0;
+    list-style-type: none;
+    padding: 13px 26px;
+}
+
+nav ul li{
+     margin: 0px 13px;
+     display: inline;
+}
+
+nav ul li a{ 
+    color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+}
+
+#sitetitle {
+    margin:0;
+}
+
